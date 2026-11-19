@@ -7,4 +7,4 @@ HomeHub is not a public service, is not offered to other users, and has no accou
 
 - [Privacy Policy](PRIVACY.md)
 
-Contact: <your email># homehub-info
+Contact: richard.wildey@gmail.com# homehub-info
